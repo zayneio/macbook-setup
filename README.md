@@ -1,4 +1,5 @@
-# New Macbook Setup
+# Macbook Setup
+An attempt at consolidating some of this stuff to reduce future google searches.
 
 ## Useful Links
 - Homebrew: https://brew.sh/
