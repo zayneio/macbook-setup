@@ -70,7 +70,7 @@ https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ### Installing Ruby
 ruby is probably already installed on your Macbook. You can check to confirm with:  
-```ruby -v`
+```ruby -v```
 
 You can also install ruby with homebrew:  
 ```brew install ruby```
