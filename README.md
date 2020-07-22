@@ -27,7 +27,7 @@ https://code.visualstudio.com/
 brew cask install visual-studio-code
 ```  
 
-**Shortcut For VSCode:**
+**Shortcut For VSCode**  
 Open the VSCode app and type in `command + shift P`, then type in `shell command` and click the search result. This will add a shortcut so that you can use `code` to open files and directories from your terminal in VSCode. For example, to open the directory you're currently in:
 
 ```shell
