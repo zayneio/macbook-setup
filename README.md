@@ -97,8 +97,11 @@ You'll probably want to use a version mgmt tool like rbenv, rvm, or asdf.
 
 ## rbenv
 ```brew install rbenv```  
+  
 ```rbenv init```  
-Follow the printed instructions to set up rbenv shell integration.  
+  
+Follow the printed instructions to set up rbenv shell integration.    
+  
 Upgrade with:  
 ```brew upgrade rbenv ruby-build```
 
