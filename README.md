@@ -133,3 +133,27 @@ asdf global ruby 2.6.5
 # Set local version
 asdf local ruby 2.6.5
 ```  
+
+### XCode
+You will probably need to install xcode at some point. Try this:
+```shell
+xcode-select --install
+```  
+
+### Postgres
+To install:
+```shell
+brew install postgres
+``` 
+
+To start:
+```shell
+brew services start postgresql
+```  
+
+
+### Rails
+
+```shell
+sudo gem install rails
+```
