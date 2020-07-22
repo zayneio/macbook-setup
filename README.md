@@ -63,9 +63,9 @@ Downloading and changing zsh themes:
 
 Additional reading for zsh config:  
 https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
-Importing themes, item colors, fonts, etc.
+Importing themes, iterm colors, fonts, etc.
 
-Item 2 color schemes:   
+Iterm2 color schemes:   
 https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ## Installing Ruby
