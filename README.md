@@ -8,19 +8,38 @@
 - Oh-my-zsh: https://ohmyz.sh/
 
 ## Install iTerm2
-https://www.iterm2.com/
+https://www.iterm2.com/  
+
+```shell
+brew cask install iterm2
+```  
 
 ## Install a Code Editor
-- VSCode: https://code.visualstudio.com/
-- Sublime: https://www.sublimetext.com/
+### VSCode
+https://code.visualstudio.com/
 
-### Shortcut For VSCode:
+```shell
+brew cask install visual-studio-code
+```  
+
+**Shortcut For VSCode:**
 Open the VSCode app and type in `command + shift P`, then type in `shell command` and click the search result. This will add a shortcut so that you can use `code` to open files and directories from your terminal in VSCode. For example, to open the directory you're currently in:
 
 ```shell
 code .
-```
+```  
 
+### Sublime 
+https://www.sublimetext.com/
+
+```shell
+brew cask install sublime-text
+```  
+
+**Shortcut for Sublime**
+```shell
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+```  
 
 ## Install homebrew
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
