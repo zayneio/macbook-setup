@@ -25,7 +25,7 @@ Type in `shell` command and click the result to add the shell shortcut so that y
 Disable homebrew analytics from tracking you if you’d like:  
 ```brew analytics off```
 
-Install git  
+### Install git  
 ```brew install git```
 
 optional: Check git version
@@ -42,7 +42,7 @@ Copy the new rsa key:
 Add this key to your GitHub account.
 
 configure your github user:  
-```git config --global user.name ‘username’```
+```git config --global user.name ‘username’```  
 ```git config --global user.email ‘your_email@example.com’```
 
 
