@@ -198,3 +198,8 @@ brew install deno
 ```shell
 brew install elixir
 ```  
+
+## Python
+```shell
+brew install python
+```  
