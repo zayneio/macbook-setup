@@ -14,7 +14,10 @@ https://www.iterm2.com/
 brew cask install iterm2
 ```  
 
-*(Note: See below for installing homebrew)*
+*(Note: See below for installing homebrew)*  
+
+Iterm2 color schemes:   
+https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ## Install a Code Editor
 ### VSCode
@@ -81,9 +84,6 @@ If you don’t get prompted to do this when installing oh-my-zsh, try this:
 
 Additional reading for zsh config, covers themes, colors, fonts, etc:  
 https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
-
-Iterm2 color schemes:   
-https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ## Installing Ruby
 ruby is probably already installed on your Macbook. You can check to confirm with:  
