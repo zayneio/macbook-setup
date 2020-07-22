@@ -46,7 +46,7 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/sub
 ## Install homebrew
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
-Disable homebrew analytics from tracking you if you’d like:  
+Disable homebrew analytics if you want:  
 ```brew analytics off```
 
 ## Install git  
