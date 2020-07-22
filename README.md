@@ -14,6 +14,8 @@ https://www.iterm2.com/
 brew cask install iterm2
 ```  
 
+*(Note: See below for installing homebrew)*
+
 ## Install a Code Editor
 ### VSCode
 https://code.visualstudio.com/
