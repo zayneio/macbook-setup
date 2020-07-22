@@ -1,4 +1,4 @@
-# Configuring your dev environment on a new MacBook:
+# New Macbook Setup
 
 ## Useful Links
 - Homebrew: https://brew.sh/
