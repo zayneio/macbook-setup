@@ -1,11 +1,11 @@
 # Configuring your dev environment on a new MacBook:
 
 ## Useful Links
-Homebrew: https://brew.sh/
-iTerm: https://www.iterm2.com/
-VSCode: https://code.visualstudio.com/
-Sublime: https://www.sublimetext.com/
-Oh-my-zsh: https://ohmyz.sh/
+- Homebrew: https://brew.sh/
+- iTerm: https://www.iterm2.com/
+- VSCode: https://code.visualstudio.com/
+- Sublime: https://www.sublimetext.com/
+- Oh-my-zsh: https://ohmyz.sh/
 
 ### Install iterm
 https://www.iterm2.com/
