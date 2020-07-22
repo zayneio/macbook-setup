@@ -7,16 +7,19 @@
 - Sublime: https://www.sublimetext.com/
 - Oh-my-zsh: https://ohmyz.sh/
 
-## Install iterm
+## Install iTerm2
 https://www.iterm2.com/
 
-## Install a code editor
+## Install a Code Editor
 - VSCode: https://code.visualstudio.com/
 - Sublime: https://www.sublimetext.com/
 
-For VScode:
-Open the app and type in `command + shift P`
-Type in `shell` command and click the result to add the shell shortcut so that you can use the `code` shortcut from your terminal to open directories.
+### Shortcut For VSCode:
+Open the VSCode app and type in `command + shift P`, then type in `shell command` and click the search result. This will add a shortcut so that you can use `code` to open files and directories from your terminal in VSCode. For example, to open the directory you're currently in:
+
+```shell
+code .
+```
 
 
 ## Install homebrew
@@ -30,17 +33,16 @@ Disable homebrew analytics from tracking you if you’d like:
 
 
 ## Github
-
-For getting all set up with github, You may need to do the following:
-Generate a new key  
+For getting set up with github, You may need to do the following:
+- Generate a new key:  
 ```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```
 
-Copy the new rsa key:  
+- Copy the new rsa key:  
 ```pbcopy < ~/.ssh/id_rsa.pub```
 
-Add this key to your GitHub account.
+- Add this key to your GitHub account
 
-configure your github user:  
+Additionally, you can configure your github user:  
 ```git config --global user.name ‘username’```  
 ```git config --global user.email ‘your_email@example.com’```
 
@@ -157,3 +159,24 @@ brew services start postgresql
 ```shell
 sudo gem install rails
 ```
+
+## Bundler
+
+```shell
+gem install bundler
+```
+
+## Node
+```shell
+brew install node
+```  
+
+## Deno
+```shell
+brew install deno
+```  
+
+## Elixir
+```shell
+brew install elixir
+```  
