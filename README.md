@@ -7,10 +7,10 @@
 - Sublime: https://www.sublimetext.com/
 - Oh-my-zsh: https://ohmyz.sh/
 
-### Install iterm
+## Install iterm
 https://www.iterm2.com/
 
-### Install a code editor
+## Install a code editor
 - VSCode: https://code.visualstudio.com/
 - Sublime: https://www.sublimetext.com/
 
@@ -19,17 +19,17 @@ Open the app and type in `command + shift P`
 Type in `shell` command and click the result to add the shell shortcut so that you can use the `code` shortcut from your terminal to open directories.
 
 
-### Install homebrew:
+## Install homebrew:
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
 Disable homebrew analytics from tracking you if you’d like:  
 ```brew analytics off```
 
-### Install git  
+## Install git  
 ```brew install git```
 
 
-### Github
+## Github
 
 For getting all set up with github, You may need to do the following:
 Generate a new key  
@@ -44,15 +44,15 @@ configure your github user:
 ```git config --global user.name ‘username’```  
 ```git config --global user.email ‘your_email@example.com’```
 
-### Instal Zsh
+## Instal Zsh
 https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH  
 ```brew install zsh```
 
-### Install oh-my-zsh
+## Install oh-my-zsh
 ```sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
 
 
-### Set zsh as your default shell
+## Set zsh as your default shell
 If you don’t get prompted to do this when installing oh-my-zsh, try this:   
 ```chsh -s /usr/local/bin/zsh```
 
@@ -68,17 +68,17 @@ Importing themes, item colors, fonts, etc.
 Item 2 color schemes:   
 https://github.com/mbadolato/iTerm2-Color-Schemes
 
-### Installing Ruby
+## Installing Ruby
 ruby is probably already installed on your Macbook. You can check to confirm with:  
 ```ruby -v```
 
 You can also install ruby with homebrew:  
 ```brew install ruby```
 
-### Install a ruby version manager
+## Install a ruby version manager
 You'll probably want to use a version mgmt tool like rbenv, rvm, or asdf.
 
-### Using rbenv
+## rbenv
 ```brew install rbenv```  
 ```rbenv init```  
 Follow the printed instructions to set up rbenv shell integration.  
@@ -100,7 +100,7 @@ rbenv local 1.9.3-p327
 rbenv global 1.8.7-p352
 ```
 
-### Using asdf
+## asdf
 ```brew install coreutils curl git```  
 ```brew install asdf```  
 
@@ -134,13 +134,13 @@ asdf global ruby 2.6.5
 asdf local ruby 2.6.5
 ```  
 
-### XCode
+## XCode
 You will probably need to install xcode at some point. Try this:
 ```shell
 xcode-select --install
 ```  
 
-### Postgres
+## Postgres
 To install:
 ```shell
 brew install postgres
@@ -152,7 +152,7 @@ brew services start postgresql
 ```  
 
 
-### Rails
+## Rails
 
 ```shell
 sudo gem install rails
