@@ -1,16 +1,16 @@
 # New Macbook Setup
 
-## **Useful Links**
+## Useful Links
 - Homebrew: https://brew.sh/
 - iTerm: https://www.iterm2.com/
 - VSCode: https://code.visualstudio.com/
 - Sublime: https://www.sublimetext.com/
 - Oh-my-zsh: https://ohmyz.sh/
 
-## **Install iterm**
+## Install iterm
 https://www.iterm2.com/
 
-## *Install a code editor*
+## Install a code editor
 - VSCode: https://code.visualstudio.com/
 - Sublime: https://www.sublimetext.com/
 
@@ -19,7 +19,7 @@ Open the app and type in `command + shift P`
 Type in `shell` command and click the result to add the shell shortcut so that you can use the `code` shortcut from your terminal to open directories.
 
 
-## Install homebrew:
+## Install homebrew
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
 Disable homebrew analytics from tracking you if you’d like:  
