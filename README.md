@@ -1,16 +1,16 @@
 # New Macbook Setup
 
-## Useful Links
+## *Useful Links*
 - Homebrew: https://brew.sh/
 - iTerm: https://www.iterm2.com/
 - VSCode: https://code.visualstudio.com/
 - Sublime: https://www.sublimetext.com/
 - Oh-my-zsh: https://ohmyz.sh/
 
-## Install iterm
+## *Install iterm*
 https://www.iterm2.com/
 
-## Install a code editor
+## *Install a code editor*
 - VSCode: https://code.visualstudio.com/
 - Sublime: https://www.sublimetext.com/
 
