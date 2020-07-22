@@ -79,14 +79,8 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 If you don’t get prompted to do this when installing oh-my-zsh, try this:   
 ```chsh -s /usr/local/bin/zsh```
 
-Downloading and changing zsh themes:  
-```git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k```
-```ZSH_THEME="powerlevel9k/powerlevel9k"```
-
-
-Additional reading for zsh config:  
+Additional reading for zsh config, covers themes, colors, fonts, etc:  
 https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
-Importing themes, iterm colors, fonts, etc.
 
 Iterm2 color schemes:   
 https://github.com/mbadolato/iTerm2-Color-Schemes
