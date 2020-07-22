@@ -11,8 +11,8 @@
 https://www.iterm2.com/
 
 ### Install a code editor
-VSCode: https://code.visualstudio.com/
-Sublime: https://www.sublimetext.com/
+- VSCode: https://code.visualstudio.com/
+- Sublime: https://www.sublimetext.com/
 
 For VScode:
 Open the app and type in `command + shift P`
