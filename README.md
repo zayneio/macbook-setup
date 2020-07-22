@@ -22,10 +22,10 @@ Type in `shell` command and click the result to add the shell shortcut so that y
 ### Install homebrew:
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
-Disable home-brew analytics from tracking you if you’d like: 
+Disable homebrew analytics from tracking you if you’d like:  
 ```brew analytics off```
 
-Install git 
+Install git  
 ```brew install git```
 
 optional: Check git version
@@ -33,21 +33,21 @@ optional: Check git version
 
 
 For getting set up with github, You may need to do the following:
-Generate a new key
+Generate a new key  
 ```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```
 
-Copy the new rsa key:
+Copy the new rsa key:  
 ```pbcopy < ~/.ssh/id_rsa.pub```
 
 Add this key to your GitHub account.
 
-configure your github user:
+configure your github user:  
 ```git config --global user.name ‘username’```
 ```git config --global user.email ‘your_email@example.com’```
 
 
 ### Instal Zsh
-https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH  
 ```brew install zsh```
 
 ### Install oh-my-zsh
@@ -55,19 +55,19 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 
 
 ### Set zsh as your default shell
-If you don’t get prompted to do this when installing oh-my-zsh, try this: 
+If you don’t get prompted to do this when installing oh-my-zsh, try this:   
 ```chsh -s /usr/local/bin/zsh```
 
-Downloading and changing zsh themes:
-Ex theme:
+Downloading and changing zsh themes:  
 ```git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k```
 ```ZSH_THEME="powerlevel9k/powerlevel9k"```
 
 
-Additional reading for zsh config:
+Additional reading for zsh config:  
 https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
 Importing themes, item colors, fonts, etc.
 
-Item 2 color schemes: https://github.com/mbadolato/iTerm2-Color-Schemes
+Item 2 color schemes:   
+https://github.com/mbadolato/iTerm2-Color-Schemes
 
 
